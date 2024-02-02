@@ -57,6 +57,9 @@ div {
     margin-right: 50px;
     border-right: 5px solid #000000;
     border-top: 2px solid #000000;
+}
+
+.blue p, .blue h2 {
     color: #C4C4C4; 
 }
 
@@ -68,7 +71,7 @@ div {
     border-left: 5px solid #000000;
 }
 
-p.yellow {
+.yellow p {
     color: #707070; 
 }
 
